@@ -1,4 +1,4 @@
-[<img src='imgs/weijilab.png'>](https://github.com/orgs/WeiJiLab/)
+[<img src='[imgs/weijilab.png](https://github.com/4SeiJuu/.github/blob/main/profile/imgs/weijilab.png)'>](https://github.com/orgs/WeiJiLab/)
 # 4SeiJuu - Efficacy Toolkits
 
 ## 4 projects for all phases of software lifetime. 
