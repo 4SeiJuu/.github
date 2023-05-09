@@ -1,7 +1,8 @@
-# Provides tools to make software better.
+# [ ![](./imgs/weijilab.png )](https://github.com/orgs/WeiJiLab/)
+# 4SeiJuu - Efficacies Toolkits
 
-## 4 projects for all phases of a product. 
-- **Suzaku:** Tools for Dev phase. 
-- **GennBu:** Tools for delivered or ops phase. 
-- **ByaKo:** Tools for finding issues from outside. 
+## 4 projects for all phases of software lifetime. 
+- **[Suzaku](https://github.com/4SeiJuu/Suzaku):** Toolkit for Dev phase. 
+- **GennBu:** Toolkit for defense. 
+- **ByaKo:** Toolkit for finding issues from outside (black box). 
 - **SeiRyuu:** is a platform of efficacies.
