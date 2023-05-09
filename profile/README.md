@@ -2,7 +2,7 @@
 # 4SeiJuu - Efficacies Toolkits
 
 ## 4 projects for all phases of software lifetime. 
-- **[Suzaku](https://github.com/4SeiJuu/Suzaku):** Toolkit for Dev phase. 
-- **GennBu:** Toolkit for defense. 
-- **ByaKo:** Toolkit for finding issues from outside (black box). 
-- **SeiRyuu:** is a platform of efficacies.
+- **[Suzaku](https://github.com/4SeiJuu/Suzaku) :** Toolkit for Dev phase. 
+- **GennBu :** Toolkit for defense. 
+- **ByaKo :** Toolkit for finding issues from outside (black box). 
+- **SeiRyuu :** is a platform of efficacies.
