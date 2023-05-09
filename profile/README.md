@@ -1,4 +1,4 @@
-# [ ![](./imgs/weijilab.png )](https://github.com/orgs/WeiJiLab/)
+# [![](./imgs/weijilab.png )](https://github.com/orgs/WeiJiLab/)
 # 4SeiJuu - Efficacies Toolkits
 
 ## 4 projects for all phases of software lifetime. 
